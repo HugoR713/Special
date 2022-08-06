@@ -18,7 +18,7 @@
 
 Agora você pode fazer um git clone https://github.com/HugoR713/Special.git
 
-Abrir na sua IDE...
+Abrir na sua IDE... Com o Java 11 instalado.
 
 Start a aplicação no Controller 
 
