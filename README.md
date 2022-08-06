@@ -13,17 +13,3 @@
 
 
 
-<h5>Um pedido em API, já se foi  uma dica. rs
-
-
-Agora você pode fazer um git clone https://github.com/HugoR713/Special.git
-
-Abrir na sua IDE... Com o Java 11 instalado.
-
-Starta a aplicação em "SpecialAplications".
-
-Abre o navegador em localhost:8080
-
-Espero que se divirta. hehe
-
-Amo você Gata! 💚</h5>
