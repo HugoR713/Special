@@ -135,7 +135,7 @@ import org.springframework.web.bind.annotation.RestController;
                     "      let img = document.querySelector('#img')\n" +
                     "      yesButton.remove()\n" +
                     "      noButton.remove()\n" +
-                    "      texto.innerHTML = 'ACEITOU JA? ♥'\n" +
+                    "      texto.innerHTML = 'ACEITOU JA? Sabia que aceitaria 😅😅  Eu amo você ♥'\n" +
                     "      img.src =\n" +
                     "        'https://www.gifcen.com/wp-content/uploads/2021/02/love-gif-2.gif'\n" +
                     "    }\n" +
