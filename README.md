@@ -16,7 +16,7 @@
 <h5>Um pedido em API, já se foi  uma dica. rs
 
 
-Agora você pode fazer um git clone 
+Agora você pode fazer um git clone https://github.com/HugoR713/Special.git
 
 Abrir na sua IDE...
 
